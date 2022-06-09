@@ -1,0 +1,17 @@
+1. ¿Qué es la programación orientada a objetos? En qué casos utilizarla?
+
+Es un modelo de programacion el cual se basa en clases y objetos, una 
+clase es la representacion de algo en general y funciona como plantilla para
+los objetos, puede usarse para solucionar cuestiones complejas o simples, sin 
+embargo, siempre se deberia evaluar la situacion para determinar la mejor 
+alternativa  
+
+2. Si realizamos un sistema de inventarios para un supermercado desde 0, cuáles serían
+tus preguntas hacia el cliente?
+
+¿Como administra el inventario?
+¿Como clasifican su inventario?
+¿Qué datos deben conocer de cada elemento del inventario?
+¿Qué cantidad de elementos siempre deberían estar disponibles?
+¿Maneja un calendario para surtir su inventario?
+¿Qué tan comunes son las entradas y salidas del inventario?
