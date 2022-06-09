@@ -1,0 +1,3 @@
+PS C:\Users\Esme\Desktop\test> & C:/Users/Esme/AppData/Local/Microsoft/WindowsApps/python3.10.exe c:/Users/Esme/Desktop/test/2.py
+Introduce una cadena de caracteres: jj@dud324khsa123h12
+Introdujo  8  numeros

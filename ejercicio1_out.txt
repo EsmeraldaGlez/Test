@@ -1,0 +1,15 @@
+PS C:\Users\Esme\Desktop\test> & C:/Users/Esme/AppData/Local/Microsoft/WindowsApps/python3.10.introduce una fecha con el formato dd/mm/yyyy: 45/13/2002
+Fecha invalida
+
+PS C:\Users\Esme\Desktop\test> & C:/Users/Esme/AppData/Local/Microsoft/WindowsApps/python3.10.introduce una fecha con el formato dd/mm/yyyy: 03/02/2001
+Fecha valida :)
+
+PS C:\Users\Esme\Desktop\test> & C:/Users/Esme/AppData/Local/Microsoft/WindowsApps/python3.10.exe c:/Users/Esme/Desktop/test/fecha.py
+introduce una fecha con el formato dd/mm/yyyy: 01/20/2010
+Fecha invalida
+
+PS C:\Users\Esme\Desktop\test> & C:/Users/Esme/AppData/Local/Microsoft/WindowsApps/python3.10.exe c:/Users/Esme/Desktop/test/fecha.py
+introduce una fecha con el formato dd/mm/yyyy: 02-04-2010
+Formato incorrecto
+introduce una fecha con el formato dd/mm/yyyy: 02/04/2010
+Fecha valida :) 
